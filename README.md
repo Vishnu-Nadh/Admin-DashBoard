@@ -1,4 +1,4 @@
-# Admin Using Tailwind CSS!
+# Admin Dashboard Using Tailwind CSS!
 
 This mini front end project is implimented using HTML and CSS Library Tailwind CSS completely, without any external css code. This project is aimed for improving development speed by efficient use of CSS library. To crate interactive charts npm Javascript library chart.js is used.
 
